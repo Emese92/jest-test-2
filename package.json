@@ -1,0 +1,22 @@
+{
+  "name": "jest-test-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emese92/jest-test-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emese92/jest-test-2/issues"
+  },
+  "homepage": "https://github.com/Emese92/jest-test-2#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
